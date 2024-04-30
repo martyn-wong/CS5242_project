@@ -1,5 +1,11 @@
 # CS5242_project_group_23
 
+This repository consists of 2 parts: Summarizer Training Code and RSS Feed Summarizer
+
+# Summarizer Training Code
+
+All the code relating to training the T5 model with the CNN/DailyMail dataset is in the CS5242_Summarization.ipynb notebook
+
 # RSS Feed Summarizer
 
 RSS Feed Summarizer is a React-based web application that allows users to enter the URL of an RSS feed, fetches the feed, and displays summaries of each article found in the feed. This app is a mockup web application for CS5242 Project
